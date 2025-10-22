@@ -1,4 +1,4 @@
-# Juego de Referencias en C con Sockets
+# Juego de Referanes en C con Sockets
 
 Proyecto académico: implementación de un juego educativo basado en referencias en lenguaje C, con comunicación cliente-servidor mediante sockets TCP/IP.
 
